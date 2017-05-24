@@ -1,4 +1,5 @@
 helloci test888
+test 2
 =======
 
 Test projects for Git training
